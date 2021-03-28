@@ -1,2 +1,2 @@
-# Angry-Birds-Stage-3
-angry birds stage 3 in javascript
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
